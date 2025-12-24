@@ -7,9 +7,9 @@ return {
             disable_italics = false,
             colors = {
                 -- Monotone shades (base00-base07)
-                base00 = "#000000", -- Default background
+                base00 = "#121417", -- Default background
                 base01 = "#7b8c9d", -- Lighter background (status bars)
-                base02 = "#000000", -- Selection background
+                base02 = "#121417", -- Selection background
                 base03 = "#7b8c9d", -- Comments, invisibles
                 base04 = "#f1f3f4", -- Dark foreground
                 base05 = "#f1f3f4", -- Default foreground
